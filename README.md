@@ -1,2 +1,2 @@
-# zailipa
-poorgrammer
+# Zeynep Sena Tınaz
+Web Developer
